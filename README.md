@@ -1,2 +1,2 @@
-# util
+# Util
 Common Utilities in Go
